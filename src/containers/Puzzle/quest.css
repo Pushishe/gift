@@ -1,0 +1,21 @@
+.form{
+  text-align: center;
+  margin: 2% auto;
+}
+
+p {
+  margin: 6px 0;
+}
+
+select {
+  width: 20%;
+}
+
+.test__ {
+  margin: 1% auto;
+}
+
+h1 {
+  color: white;
+  margin-left: 80px;
+}

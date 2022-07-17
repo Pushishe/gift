@@ -1,0 +1,23 @@
+.Encryption {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  flex-grow: 1;
+  width: 100%;
+  background: linear-gradient(-45deg, #45f5b1 0%, #cac1ff 100%);
+  overflow-y: scroll;
+}
+
+.Encryption h1 {
+  color: whitesmoke;
+  margin-left: 90px;
+}
+
+.EncryptionWrapper {
+  width: 600px;
+}
+
+.Encryption .Button {
+  margin-top: 20px;
+  text-align: center;
+}

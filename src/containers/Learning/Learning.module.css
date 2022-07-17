@@ -1,0 +1,22 @@
+.Learning {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  flex-grow: 1;
+  width: 100%;
+  background: linear-gradient(0deg, #bb3b09c5 0%, #5440d8c5 100%);
+  overflow-y: scroll;
+}
+
+.LearningWrapper {
+  margin-top: 100px;
+  width: 600px;
+}
+
+.Learning h1 {
+  margin-left: 100px;
+}
+
+.Learning .Button {
+  text-align: center;
+}

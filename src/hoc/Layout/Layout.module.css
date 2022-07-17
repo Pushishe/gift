@@ -1,0 +1,20 @@
+.Layout {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-family: "Lato";
+  font-weight: lighter;
+  justify-content: center;
+  align-items: center;
+  overflow-y: scroll;
+  margin: 0;
+  width: 100%;
+  background: linear-gradient(150deg, #e6d3f9 0%, #e6d3f9 50%, #cea0f1 50%, #cea0f1 100%);
+}
+
+.Layout main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
